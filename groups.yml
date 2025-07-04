@@ -1,0 +1,6 @@
+"group1":
+  description: "test description-1"
+  users: ["test-user", "test-user2", "test-user3", "test-user4"]
+"group2":
+  description: "test description-2"
+  users: ["test-user"]
